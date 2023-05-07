@@ -1,0 +1,5 @@
+{
+  "delayms": 20000,
+  "webhook": "your_discord_webhook",
+  "sendWebhookOnStartup": true
+}
